@@ -1,0 +1,10 @@
+* parse-front-matter
+
+A Jekyll-style front matter parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/parse-front-matter.git   |
+| commit  | e879534  |
+| systems | parse-front-matter |
+|---------+-------------------------------------------|
+
